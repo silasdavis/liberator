@@ -1,4 +1,4 @@
-(defproject silasdavis/liberator "0.11.0.1"
+(defproject silasdavis/liberator "0.11.0.2"
   :description "Liberator - A REST library for Clojure."
   :url "https://github.com/silasdavis/liberator.git"
   :dependencies [[org.clojure/clojure "1.4.0"]
